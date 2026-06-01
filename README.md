@@ -78,7 +78,6 @@
 ⚡ **Fun Facts**
 
 - I love **automating daily tasks with Python** 🐍  
-- Passionate about combining **AI + Healthcare** for real-world impact  
 - Believe that **AI should be accessible to everyone**  
 
 ---
