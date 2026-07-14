@@ -1,94 +1,199 @@
 <h1 align="center">Hi 👋, I'm Nogil Binu</h1>
-<h3 align="center">AI Developer | Computer Vision & Deep Learning Enthusiast | Building Intelligent Systems</h3>
 
----
+<h3 align="center">
+AI Engineer • Generative AI • Computer Vision • Building Production-Ready AI Applications
+</h3>
 
-🌟 **About Me**
-
-- 🎓 **B.Tech in Computer Science (Artificial Intelligence)**  
-  *Adi Shankara Institute of Engineering and Technology, Kalady* | *Class of 2026*
-- 💼 **AI Developer Intern** at *Hridayalaya Heart and Robotic Research Centre* (May–Oct 2025)  
-  Worked on a funded **Precision Medicine AI project** improving diagnostic accuracy and treatment personalization.
-- 🧠 Research Presenter at **ICIMRBE 2025** – Presented *“Automated ID Card Enforcement System”*  
-  (YOLOv11 + Face Recognition)
-- 🌱 Continuously learning and building projects in **Machine Learning, Deep Learning, and Healthcare AI**
-- 📫 Reach me at **nogilbinu@gmail.com**
-
----
-
-🚀 **Current Focus**
-
-- Precision Medicine & Healthcare AI  
-- Vision Transformers (ViT), CNNs, and Generative AI  
-- AI System Deployment using Flask & Edge Devices  
-- Model Optimization and Performance Tuning  
-
----
-
-🛠️ **Tech Stack & Tools**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<p align="center">
+  <a href="https://github.com/nogil07">
+    <img src="https://img.shields.io/github/followers/nogil07?label=Followers&style=social"/>
+  </a>
+  <a href="https://github.com/nogil07">
+    <img src="https://komarev.com/ghpvc/?username=nogil07&label=Profile%20Views&color=0e75b6&style=flat"/>
+  </a>
 </p>
 
 ---
 
-📂 **Featured Projects**
+## 🚀 About Me
 
-- 🔍 **Automated ID Card Enforcement System**  
-  AI-powered surveillance using YOLOv11 and facial recognition to detect ID card violations.  
-  🧩 *Improved compliance by 60% during campus testing.*
+I'm an AI Engineer passionate about building intelligent applications powered by **Large Language Models, Computer Vision, Retrieval-Augmented Generation (RAG), and Generative AI**.
 
-- ✍️ **Vocal Pen – OCR & TTS Note Reading App**  
-  Converts handwritten text into voice using OCR, Translation, and TTS.  
-  ⚙️ *Built with Flask, OpenCV, Tesseract, and gTTS.*
+I enjoy turning research ideas into real-world products—from AI assistants and healthcare applications to computer vision systems and AI-powered design tools.
 
-- 💉 **Precision Medicine AI (Internship Project)**  
-  Developed ML models for patient data analysis and diagnostic enhancement in healthcare applications.
-
----
-
-📜 **Certifications & MOOCs**
-
-- Python for Data Science, AI and Development – *Coursera (Jun 2025)*  
-- Python Libraries for Data Science – *Simplilearn SkillUP (Apr 2025)*  
-- Data Science with Python – *Techmaghi (Nov 2024)*  
-- Regression Analysis – *Infosys Springboard (Oct 2024)*  
-- Data Mining Workshop – *ASIET (Feb–Mar 2024)*  
-- Python & AI/ML Workshop – *ASIET (Oct 2024)*  
+- 🎓 B.Tech in Computer Science & Engineering (Artificial Intelligence)
+- 📄 Research Presenter – **ICIMRBE 2025**
+- 🌱 Currently exploring **AI Agents, Multimodal AI, LangGraph, MCP, and Vision-Language Models**
+- 📫 **Email:** nogilbinu@gmail.com
+- 🌐 **Portfolio:** https://nogil.netlify.app/
+- 💼 **LinkedIn:** https://linkedin.com/in/nogilbinu
 
 ---
 
-🏆 **Achievements**
+# 💻 Tech Stack
 
-- 🥇 **Prize Winner – Innovative Project** (Vocalpen)  
-- 🎯 **Coordinator** – Project Expo, *Prayag Technical Fest*  
-- ⚙️ **Event Coordinator** – *Brahma National Fest*
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,js,ts" />
+</p>
+
+### AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+- Scikit-Learn
+- OpenCV
+- YOLO
+- LangChain
+- LangGraph
+- Hugging Face
+- Sentence Transformers
+- ChromaDB
+- Gemini API
+- OCR
+
+### Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,fastapi,flask,nodejs" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
+</p>
 
 ---
 
-⚡ **Fun Facts**
+# ⭐ Featured Projects
 
-- I love **automating daily tasks with Python** 🐍  
-- Believe that **AI should be accessible to everyone**  
+## 🏡 AI Vastu with RAG
+
+> AI-powered floor plan generation using Retrieval-Augmented Generation.
+
+### Highlights
+
+- 📚 RAG Pipeline
+- 🧠 Gemini 2.5 Flash
+- ⚡ FastAPI Backend
+- 🎨 Next.js Frontend
+- 🔍 ChromaDB Vector Database
+- 📄 PDF + OCR Processing
+- 🏠 AI Floor Plan Prompt Generator
+- 📐 KPBR + Vastu Rule Integration
 
 ---
 
-<h3 align="center">🌐 Connect with Me</h3>
+## 👁️ Automated ID Card Enforcement System
+
+AI surveillance system that detects ID card violations using:
+
+- YOLOv11
+- ArcFace
+- InsightFace
+- Face Recognition
+- Real-time Detection
+
+Presented at **ICIMRBE 2025**.
+
+---
+
+## 🎤 VocalPen
+
+OCR-powered accessibility application that converts handwritten notes into speech.
+
+Features:
+
+- OCR
+- Translation
+- Text-to-Speech
+- Flask
+- OpenCV
+
+---
+
+
+# 🏆 Achievements
+
+- 🥇 Prize Winner — VocalPen Innovation Project
+- 📄 Research Presenter — ICIMRBE 2025
+- 🎯 Project Expo Coordinator
+- ⚙️ Event Coordinator — Brahma National Fest
+
+---
+
+# 📜 Certifications
+
+- Deep learning
+- Python for Data Science, AI & Development
+- Python Libraries for Data Science
+- Data Science with Python
+- Regression Analysis
+- Data Mining Workshop
+- Python & AI/ML Workshop
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <a href="mailto:nogilbinu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nogilbinu/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nogil07&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=nogil07&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogil07&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nogil07&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:nogilbinu@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/nogilbinu">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/nogil07">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+> *"Building AI that solves real-world problems."*
+
 </p>
