@@ -1,199 +1,323 @@
-<h1 align="center">Hi 👋, I'm Nogil Binu</h1>
+<div align="center">
 
-<h3 align="center">
-AI Engineer • Generative AI • Computer Vision • Building Production-Ready AI Applications
-</h3>
+# 🔴 NOGIL BINU
 
-<p align="center">
-  <a href="https://github.com/nogil07">
-    <img src="https://img.shields.io/github/followers/nogil07?label=Followers&style=social"/>
-  </a>
-  <a href="https://github.com/nogil07">
-    <img src="https://komarev.com/ghpvc/?username=nogil07&label=Profile%20Views&color=0e75b6&style=flat"/>
-  </a>
-</p>
+### `AI ENGINEER` · `GENERATIVE AI` · `COMPUTER VISION` · `RAG`
 
----
+**Building intelligent systems that turn AI research into real-world products.**
 
-## 🚀 About Me
+<br>
 
-I'm an AI Engineer passionate about building intelligent applications powered by **Large Language Models, Computer Vision, Retrieval-Augmented Generation (RAG), and Generative AI**.
+<a href="https://nogil.netlify.app/">
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-FF1744?style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/nogilbinu">
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-FF1744?style=for-the-badge&logoColor=white" />
+</a>
+<a href="mailto:nogilbinu@gmail.com">
+<img src="https://img.shields.io/badge/📧%20EMAIL-FF1744?style=for-the-badge&logoColor=white" />
+</a>
 
-I enjoy turning research ideas into real-world products—from AI assistants and healthcare applications to computer vision systems and AI-powered design tools.
+<br><br>
 
-- 🎓 B.Tech in Computer Science & Engineering (Artificial Intelligence)
-- 📄 Research Presenter – **ICIMRBE 2025**
-- 🌱 Currently exploring **AI Agents, Multimodal AI, LangGraph, MCP, and Vision-Language Models**
-- 📫 **Email:** nogilbinu@gmail.com
-- 🌐 **Portfolio:** https://nogil.netlify.app/
-- 💼 **LinkedIn:** https://linkedin.com/in/nogilbinu
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" />
+
+</div>
 
 ---
 
-# 💻 Tech Stack
+<div align="center">
 
-### Languages
+## 🔴 `ABOUT ME`
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,js,ts" />
-</p>
+</div>
 
-### AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-- Scikit-Learn
-- OpenCV
-- YOLO
-- LangChain
-- LangGraph
-- Hugging Face
-- Sentence Transformers
-- ChromaDB
-- Gemini API
-- OCR
-
-### Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,fastapi,flask,nodejs" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
-</p>
-
----
-
-# ⭐ Featured Projects
-
-## 🏡 AI Vastu with RAG
-
-> AI-powered floor plan generation using Retrieval-Augmented Generation.
-
-### Highlights
-
-- 📚 RAG Pipeline
-- 🧠 Gemini 2.5 Flash
-- ⚡ FastAPI Backend
-- 🎨 Next.js Frontend
-- 🔍 ChromaDB Vector Database
-- 📄 PDF + OCR Processing
-- 🏠 AI Floor Plan Prompt Generator
-- 📐 KPBR + Vastu Rule Integration
-
----
-
-## 👁️ Automated ID Card Enforcement System
-
-AI surveillance system that detects ID card violations using:
-
-- YOLOv11
-- ArcFace
-- InsightFace
-- Face Recognition
-- Real-time Detection
-
-Presented at **ICIMRBE 2025**.
-
----
-
-## 🎤 VocalPen
-
-OCR-powered accessibility application that converts handwritten notes into speech.
-
-Features:
-
-- OCR
-- Translation
-- Text-to-Speech
-- Flask
-- OpenCV
-
----
-
-
-# 🏆 Achievements
-
-- 🥇 Prize Winner — VocalPen Innovation Project
-- 📄 Research Presenter — ICIMRBE 2025
-- 🎯 Project Expo Coordinator
-- ⚙️ Event Coordinator — Brahma National Fest
-
----
-
-# 📜 Certifications
-
-- Deep learning
-- Python for Data Science, AI & Development
-- Python Libraries for Data Science
-- Data Science with Python
-- Regression Analysis
-- Data Mining Workshop
-- Python & AI/ML Workshop
-
----
-
-# 📊 GitHub Stats
+I'm an **AI Engineer** focused on building intelligent applications with:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nogil07&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=nogil07&theme=tokyonight&hide_border=true"/>
+`LLMs`  • 
+`Computer Vision`  • 
+`RAG`  • 
+`Generative AI`  • 
+`AI Agents`
 
 </p>
 
+I enjoy transforming research ideas into **production-ready AI systems** — from AI assistants and accessibility tools to computer vision applications and AI-powered design systems.
+
+<br>
+
+<div align="center">
+
+|     🎓 Education    |    📄 Research   |         🤖 Focus        |
+| :-----------------: | :--------------: | :---------------------: |
+| **B.Tech CSE — AI** | **ICIMRBE 2025** | **Next-Gen AI Systems** |
+
+</div>
+
+### ⚡ Currently Exploring
+
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogil07&layout=compact&theme=tokyonight&hide_border=true"/>
+![AI Agents](https://img.shields.io/badge/AI%20Agents-120000?style=for-the-badge\&logoColor=FF1744)
+![Multimodal AI](https://img.shields.io/badge/Multimodal%20AI-120000?style=for-the-badge\&logoColor=FF1744)
+![LangGraph](https://img.shields.io/badge/LangGraph-120000?style=for-the-badge\&logoColor=FF1744)
+![MCP](https://img.shields.io/badge/MCP-120000?style=for-the-badge\&logoColor=FF1744)
+![VLM](https://img.shields.io/badge/Vision--Language%20Models-120000?style=for-the-badge\&logoColor=FF1744)
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+<div align="center">
+
+# 🔴 `TECH STACK`
+
+### 🧠 Artificial Intelligence
+
+<img src="https://skillicons.dev/icons?i=python,opencv,pytorch,tensorflow&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/YOLO-120000?style=for-the-badge&logoColor=FF1744" />
+<img src="https://img.shields.io/badge/LangChain-120000?style=for-the-badge&logoColor=FF1744" />
+<img src="https://img.shields.io/badge/LangGraph-120000?style=for-the-badge&logoColor=FF1744" />
+<img src="https://img.shields.io/badge/HuggingFace-120000?style=for-the-badge&logo=huggingface&logoColor=FF1744" />
+<img src="https://img.shields.io/badge/ChromaDB-120000?style=for-the-badge&logoColor=FF1744" />
+<img src="https://img.shields.io/badge/Gemini%20API-120000?style=for-the-badge&logo=google&logoColor=FF1744" />
+
+### 🌐 Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,fastapi,flask&theme=dark" />
+
+### 🗄️ Data & Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Vector%20Databases-120000?style=for-the-badge&logoColor=FF1744" />
+<img src="https://img.shields.io/badge/OCR-120000?style=for-the-badge&logoColor=FF1744" />
+<img src="https://img.shields.io/badge/Sentence%20Transformers-120000?style=for-the-badge&logoColor=FF1744" />
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+# 🔴 `FEATURED PROJECTS`
+
+</div>
+
+### 🏡 AI Vastu with RAG
+
+> **AI-powered floor plan generation using Retrieval-Augmented Generation.**
+
+An intelligent system combining **RAG + LLMs + architectural rules + Vastu principles** to generate AI-assisted floor-plan prompts.
+
+<br>
+
+<div align="center">
+
+| ⚡ Technology            | 🚀 Purpose            |
+| :---------------------- | :-------------------- |
+| 🧠 **Gemini 2.5 Flash** | Intelligent reasoning |
+| 📚 **RAG Pipeline**     | Knowledge retrieval   |
+| 🔍 **ChromaDB**         | Vector search         |
+| ⚡ **FastAPI**           | Backend API           |
+| 🎨 **Next.js**          | Frontend              |
+| 📄 **PDF + OCR**        | Document processing   |
+| 📐 **KPBR + Vastu**     | Rule integration      |
+
+</div>
+
+---
+
+### 👁️ Automated ID Card Enforcement System
+
+> **Real-time computer-vision system for detecting ID-card violations.**
+
+An AI surveillance system capable of identifying people, verifying identities, and detecting ID-card compliance in real time.
+
+**⚡ Core Technology**
+
+`YOLOv11` · `ArcFace` · `InsightFace` · `Face Recognition` · `Real-Time Detection`
+
+<br>
+
+<div align="center">
+
+🏆 **RESEARCH PRESENTATION — ICIMRBE 2025**
+
+</div>
+
+---
+
+### 🎤 VocalPen
+
+> **OCR-powered accessibility application that converts handwritten notes into speech.**
+
+VocalPen transforms handwritten content into accessible digital speech using an AI-powered OCR pipeline.
+
+**⚡ Features**
+
+`OCR` · `Translation` · `Text-to-Speech` · `Flask` · `OpenCV`
+
+<br>
+
+<div align="center">
+
+🥇 **PRIZE WINNER — INNOVATION PROJECT**
+
+</div>
+
+---
+
+<div align="center">
+
+# 🔴 `ACHIEVEMENTS`
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🥇 Innovation Project
+
+**VocalPen**
+Prize Winner
+
+</td>
+
+<td align="center" width="50%">
+
+### 📄 Research Presenter
+
+**ICIMRBE 2025**
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🎯 Project Expo
+
+Coordinator
+
+</td>
+
+<td align="center">
+
+### ⚙️ Brahma National Fest
+
+Event Coordinator
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 🔴 `CERTIFICATIONS`
+
+</div>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nogil07&theme=tokyo-night&hide_border=true"/>
+🧠 Deep Learning
+ • 
+🐍 Python for Data Science, AI & Development
+ • 
+📊 Python Libraries for Data Science
+ • 
+📈 Data Science with Python
+
+<br>
+
+📐 Regression Analysis
+ • 
+⛏️ Data Mining Workshop
+ • 
+🤖 Python & AI/ML Workshop
 
 </p>
 
 ---
 
-# 🤝 Let's Connect
+<div align="center">
 
-<p align="center">
+# 🔴 `GITHUB ANALYTICS`
+
+<br>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=nogilbinu&show_icons=true&hide_border=true&bg_color=0D0000&title_color=FF1744&icon_color=FF1744&text_color=FFFFFF&ring_color=FF1744" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogilbinu&layout=compact&hide_border=true&bg_color=0D0000&title_color=FF1744&text_color=FFFFFF" />
+
+</div>
+
+---
+
+<div align="center">
+
+# 🔴 `CONTRIBUTION GRAPH`
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nogilbinu&bg_color=0D0000&color=FFFFFF&line=FF1744&point=FF1744&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🔴 `PROFILE VISITORS`
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=nogilbinu&label=PROFILE%20VIEWS&color=FF1744&style=for-the-badge" />
+
+</div>
+
+---
+
+<div align="center">
+
+# 🔴 `LET'S CONNECT`
+
+### Have an AI idea? Let's build it.
+
+<br>
 
 <a href="mailto:nogilbinu@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-FF1744?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://linkedin.com/in/nogilbinu">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-FF1744?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/nogil07">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://nogil.netlify.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-FF1744?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
-</p>
+<br><br>
 
----
+### `🔴 BUILD • EXPERIMENT • DEPLOY`
 
-<p align="center">
+<br>
 
-> *"Building AI that solves real-world problems."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=120&section=footer" />
 
-</p>
+</div>
