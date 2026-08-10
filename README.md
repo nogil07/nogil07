@@ -46,7 +46,7 @@ I'm an **AI Engineer** passionate about building intelligent applications powere
 
 </p>
 
-I enjoy turning research ideas into real-world products — from **AI assistants** to **computer vision systems and AI-powered design tools**.
+I enjoy turning research ideas into real-world products — from **AI assistants and healthcare applications** to **computer vision systems and AI-powered design tools**.
 
 <br>
 
@@ -310,13 +310,19 @@ Event Coordinator
 
 <br>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=nogil07&show_icons=true&hide_border=true&bg_color=090909&title_color=FF1744&icon_color=FF1744&text_color=FFFFFF&ring_color=FF1744"/>
+<a href="https://github.com/nogil07">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=nogil07&show_icons=true&hide_border=true&bg_color=090909&title_color=FF1744&icon_color=FF1744&text_color=FFFFFF&ring_color=FF1744&include_all_commits=true&count_private=true"/>
+</a>
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=nogil07&hide_border=true&background=090909&ring=FF1744&fire=FF1744&currStreakLabel=FF1744&sideLabels=FFFFFF&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+<a href="https://github.com/nogil07">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogil07&layout=compact&langs_count=8&hide_border=true&bg_color=090909&title_color=FF1744&text_color=FFFFFF"/>
+</a>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogil07&layout=compact&hide_border=true&bg_color=090909&title_color=FF1744&text_color=FFFFFF"/>
+<a href="https://github.com/nogil07">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nogil07&hide_border=true&background=090909&ring=FF1744&fire=FF1744&currStreakLabel=FF1744&sideLabels=FFFFFF&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+</a>
 
 </div>
 
@@ -328,7 +334,23 @@ Event Coordinator
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nogil07&bg_color=090909&color=FFFFFF&line=FF1744&point=FF1744&area=true&hide_border=true" width="95%"/>
+<a href="https://github.com/nogil07">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nogil07&bg_color=090909&color=FFFFFF&line=FF1744&point=FF1744&area=true&hide_border=true&custom_title=Nogil%20Binu%20-%20Contribution%20Graph" width="95%"/>
+
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🔴 PROFILE VISITORS
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=nogil07&label=PROFILE%20VIEWS&color=FF1744&style=for-the-badge"/>
 
 </div>
 
